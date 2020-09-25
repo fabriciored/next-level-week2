@@ -1,3 +1,11 @@
 2020.09.25 15:34:40 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\Escritorio\Desktop\Projects\NLW2\nlw2\next-level-week2\mobile' for client vscode.
 2020.09.25 15:34:42 INFO  time: initialize in 2.04s
 2020.09.25 15:34:51 WARN  no build tool detected in workspace 'C:\Users\Escritorio\Desktop\Projects\NLW2\nlw2\next-level-week2\mobile'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+set 25, 2020 5:45:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMA합ES: Unsupported notification method: $/setTraceNotification
+set 25, 2020 5:45:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMA합ES: Unsupported notification method: $/setTraceNotification
+set 25, 2020 6:38:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMA합ES: Unsupported notification method: $/setTraceNotification
+set 25, 2020 6:38:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMA합ES: Unsupported notification method: $/setTraceNotification

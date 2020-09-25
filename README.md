@@ -66,6 +66,7 @@ Foram fornecidos conteúdos da própria Rocketseat para realização da extensã
 [Lista de To-dos:](https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970)
 
 - Layout da aplicação.
+  - ~~Telas de Onboarding~~
 - Autenticação de usuários.
 - Recuperação de senhas.
 - Perfil do proffy.
