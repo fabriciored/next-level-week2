@@ -2,7 +2,7 @@
 
 <h3 align="center">Web</h3>
 <p align="center">
-  <img src='images/landingweb.png' width="800px" height="468px">
+  <img src='images/landingweb.png' width="800px" height="420px">
 </p>
 
 <h3 align="center">Mobile</h3>
@@ -22,12 +22,17 @@ As interfaces Web e Mobile são simples, onde existem uma landing page permitind
 
 # Execução local
 
-Para executar o app em ambiente de desenvolvimento local você precisa ter o NodeLTS e a CLI do Expo instalados
+Para executar o app em ambiente de desenvolvimento local você precisa ter o NodeLTS e a CLI do Expo instalados.
+
 Utilize:
 `npm install`
+
 ou
+
 `yarn add`
+
 Em cada pasta para instalação das dependencias de desenvolvimento.
+
 `yarn start` ou `npm start` para iniciar os servidores de desenvolvimento.
 
 ------------
@@ -64,7 +69,7 @@ Foram fornecidos conteúdos da própria Rocketseat para realização da extensã
 - Autenticação de usuários.
 - Recuperação de senhas.
 - Perfil do proffy.
-- Splash Screen no React Native com Expo.
+- ~~Splash Screen no React Native com Expo.~~
 - Paginação na listagem de proffys.
 - Exibindo horários disponíveis dos proffys.
 - Salvando seus proffys favoritos.
