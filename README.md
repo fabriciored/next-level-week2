@@ -2,7 +2,7 @@
 
 <h3 align="center">Web</h3>
 <p align="center">
-  <img src='images/landingweb.png' width="800px" height="420px">
+  <img src='images/landingweb.png' width="800px" height="468px">
 </p>
 
 <h3 align="center">Mobile</h3>
